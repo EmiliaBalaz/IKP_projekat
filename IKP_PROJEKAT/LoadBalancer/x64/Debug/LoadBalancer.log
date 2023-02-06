@@ -1,0 +1,8 @@
+﻿  CircularBuffer.cpp
+  Communication.cpp
+D:\Fakultet\CETVRTA GODINA\IKP_PROJEKAT\LoadBalancer\Communication.cpp(534,10): warning C4101: 'recvbuf': unreferenced local variable
+  LoadBalancer.cpp
+  WorkerList.cpp
+  Generating Code...
+D:\Fakultet\CETVRTA GODINA\IKP_PROJEKAT\LoadBalancer\WorkerList.cpp(158): warning C4172: returning address of local variable or temporary: niz
+  LoadBalancer.vcxproj -> D:\Fakultet\CETVRTA GODINA\IKP_PROJEKAT\x64\Debug\LoadBalancer.exe

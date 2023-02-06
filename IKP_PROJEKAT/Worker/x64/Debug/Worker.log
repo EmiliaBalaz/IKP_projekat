@@ -1,0 +1,8 @@
+﻿  Communication.cpp
+D:\Fakultet\CETVRTA GODINA\IKP_PROJEKAT\Worker\Communication.cpp(269,10): warning C4101: 'recvbuf': unreferenced local variable
+  MessageList.cpp
+  Worker.cpp
+D:\Fakultet\CETVRTA GODINA\IKP_PROJEKAT\Worker\Worker.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Writer.cpp
+  Generating Code...
+  Worker.vcxproj -> D:\Fakultet\CETVRTA GODINA\IKP_PROJEKAT\x64\Debug\Worker.exe
